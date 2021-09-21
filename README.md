@@ -3,13 +3,13 @@
 
 ###      Title: Tokenized Assest Lending
 ####     Description: Create a platform that allows to tokenize assets and lend them to users in exchange for a payment. Then distributing payments into asset token owners.
-####     Simple Workgflow 1 (Tokenization):       
+####     Simple Workflow 1 (Tokenization):       
 
          1. User Log In into the platform.
          1. Define new Assets Token (asset, img, description, price per token, ammount of tokens, etc)
          1. Tokens are created and available for buying.
 
-####     Simple Workgflow 2 (Asset Usage):       
+####     Simple Workflow 2 (Asset Usage):       
    
          1. User Log In into the platform.
          1. Selects Asset to BOrrow ( timeframe,  price to pay, )
