@@ -6,13 +6,13 @@
 ####     Simple Workflow 1 (Tokenization):       
 
          1. User Log In into the platform.
-         1. Define new Assets Token (asset, img, description, price per token, ammount of tokens, etc)
-         1. Tokens are created and available for buying.
+         2. Define new Assets Token (asset, img, description, price per token, ammount of tokens, etc)
+         3. Tokens are created and available for buying.
 
 ####     Simple Workflow 2 (Asset Usage):       
    
          1. User Log In into the platform.
-         1. Selects Asset to BOrrow ( timeframe,  price to pay, )
-         1. Asset is assigned temporarly for usage to the user.
-         1. Platform pays proportionally to the Asset token owners the payment of the lending of the asset.
-         1. When time of lending finishes the asset usage returns to the lender.
+         2. Selects Asset to BOrrow ( timeframe,  price to pay, )
+         3. Asset is assigned temporarly for usage to the user.
+         4. Platform pays proportionally to the Asset token owners the payment of the lending of the asset.
+         5. When time of lending finishes the asset usage returns to the lender.
